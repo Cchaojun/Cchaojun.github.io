@@ -1,3 +1,9 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>死肥宅</title>
+
 <style>
 .kg981{max-width:981px;margin:0 auto;}
 .kg981  .img31 img{width:33.333%;}
@@ -72,7 +78,9 @@
 
 </style>
 
+</head>
 
+<body>
 
 <div class="kg980">
 	<div class="img100">
@@ -89,3 +97,6 @@
 		<a href="http://ygh.gloria.com.cn/mall/#/pc/list/082cc62aea52406080b4a95242d02781/null" target="_blank"> <img class="lazy" alt="??×ó" src="http://www.goelia.com.cn/wcsstore/GoeliaStorefrontAssetStore/images/2pic/yuan1218/Pants.jpg" /> </a> <a href="http://ygh.gloria.com.cn/mall/#/pc/list/18e966ae504143b5913fd52fe96286c1/null" target="_blank"> <img class="lazy" alt="°?è1" src="http://www.goelia.com.cn/wcsstore/GoeliaStorefrontAssetStore/images/2pic/yuan1218/Skirt.jpg" /> </a> <a href="http://ygh.gloria.com.cn/mall/#/pc/list/de8e9862e7ed41bd8c8035fe7e503bba/null" target="_blank"> <img class="lazy" alt="TD?" src="https://img.alicdn.com/imgextra/i4/133006562/O1CN011yLRRkGih7DvUbm_!!133006562.jpg" /> </a> <a href="http://ygh.gloria.com.cn/mall/#/pc/list/e940e3eb878941159149834b3b5a51b7/null" target="_blank"> <img class="lazy" alt=" 3?éà" src="http://www.goelia.com.cn/wcsstore/GoeliaStorefrontAssetStore/images/2pic/yuan1218/Shirt.jpg" /> </a> <a href="http://ygh.gloria.com.cn/mall/#/pc/list/b1b0b9cf62144769bb371d10d7d2b56d/null" target="_blank"> <img class="lazy" alt="ê??·′?μ￥" src="http://www.goelia.com.cn/wcsstore/GoeliaStorefrontAssetStore/images/2pic/yuan1218/Accessory.jpg" /> </a> <a href="http://ygh.gloria.com.cn/mall/#/pc/list/de8e9862e7ed41bd8c8035fe7e503bba/null" target="_blank"> <img class="lazy" alt="TD?" src="https://img.alicdn.com/imgextra/i1/133006562/O1CN011yLRRklVpKYI1ZR_!!133006562.jpg" /> </a> <a href="http://ygh.gloria.com.cn/mall/#/pc/list/e940e3eb878941159149834b3b5a51b7/null" target="_blank"> <img class="lazy" alt=" 3?éà" src="http://www.goelia.com.cn/wcsstore/GoeliaStorefrontAssetStore/images/2pic/yuan1218/Shirt2.jpg" /> </a> <a href="http://ygh.gloria.com.cn/mall/#/pc/list/b2373defd1b84f0ab340fdd2e945dff2/null" target="_blank"> <img class="lazy" alt="??ò?" src="http://www.goelia.com.cn/wcsstore/GoeliaStorefrontAssetStore/images/2pic/yuan1218/Downcoat.jpg" /> </a> <a href="http://ygh.gloria.com.cn/mall/#/pc/list/c84d0c7f0a464a54988c1a64e4e98092/null" target="_blank"> <img class="lazy" alt="·?ò?íaì×" src="http://www.goelia.com.cn/wcsstore/GoeliaStorefrontAssetStore/images/2pic/yuan1218/Coat.jpg" /></a> 
 	</div>
 </div>
+
+</body>
+</html>
